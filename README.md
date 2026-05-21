@@ -1,6 +1,6 @@
-# fauzanp5_app
+# Tekmob-praktikum5
 
-A new Flutter project.
+A Flutter project for Praktikum 5 - State Management & Assets.
 
 ## Getting Started
 
